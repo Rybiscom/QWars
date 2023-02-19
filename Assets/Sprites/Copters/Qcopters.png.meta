@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: b50ec8ec703be6f409c0072387fd68c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Qcopters_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2367
+        width: 647
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0b65e846945b449b7463f52f87d00
+      internalID: 1632004740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2316
+        width: 523
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edde8f5237ff1d4eb80ba67112df9ee
+      internalID: 548695823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2138
+        width: 868
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57815fdfb71b6ae439a189ae1fc1123b
+      internalID: -2071536724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_6
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2047
+        width: 992
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38145c77fa6a43c49b584403e1df402a
+      internalID: -1514361981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1896
+        width: 916
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2894388a3128a498450ce240b07fc6
+      internalID: 597080424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_9
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1779
+        width: 969
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e27baf8e4ff894e8c0ba313312c979
+      internalID: -147369333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1675
+        width: 974
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4894e9ebf6d7efd4abe469896d34c49f
+      internalID: 524621239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1557
+        width: 921
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705209cb7e010243bc73996a9e24c2e
+      internalID: 1215506390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1475
+        width: 953
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdc89ef3099dc4c89632eeea9632ea
+      internalID: -1598260320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1236
+        width: 1110
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d53c12aa18eb469963870b803bb54
+      internalID: -2104791405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_26
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1260
+        width: 1133
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc18534274038447aee2b6cb630359f
+      internalID: 1871888614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1014
+        width: 1017
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7aad3e5aa15745a3eff16b3a82c19
+      internalID: 1517065741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_29
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1044
+        width: 1064
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce3b50a256361479189ef2cfcb522f
+      internalID: -1850662225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 793
+        width: 1133
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08406e1587ef8d428fa0b32719570fe
+      internalID: 1657701527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_35
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 764
+        width: 1002
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eebfb0fbd32d043979bba8b5c79927
+      internalID: 621543821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 556
+        width: 1241
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568aa5bbaf616944b9da1a56a500bd8b
+      internalID: -1819787538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_38
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 523
+        width: 1188
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793c1d1ce03bf14982abd141a209731
+      internalID: 1321328223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 354
+        width: 965
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a88f1447f72dd499a29d3adb10e635
+      internalID: 1483477374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 247
+        width: 1113
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b01c40b6f3df2469f9ba2a65ebb1ce
+      internalID: 1011432656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qcopters_54
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 23
+        width: 1395
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0f6e8bb399a446817f6d4da2e3dc9
+      internalID: -221353562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Qcopters_38: 1321328223
+      Qcopters_36: 804418452
+      Qcopters_4: -22833804
+      Qcopters_1: 548695823
+      Qcopters_52: 1108235032
+      Qcopters_6: -1514361981
+      Qcopters_49: 1761091812
+      Qcopters_13: 475683354
+      Qcopters_43: 1011432656
+      Qcopters_25: 834325286
+      Qcopters_14: 1215506390
+      Qcopters_8: 597080424
+      Qcopters_11: 1418718148
+      Qcopters_22: -1172019394
+      Qcopters_42: -88971315
+      Qcopters_20: -1598260320
+      Qcopters_48: 66656697
+      Qcopters_50: -1894284489
+      Qcopters_9: -147369333
+      Qcopters_31: -914940421
+      Qcopters_28: 1517065741
+      Qcopters_23: 1016044693
+      Qcopters_16: 89876291
+      Qcopters_46: 555604856
+      Qcopters_39: 1115082814
+      Qcopters_29: -1850662225
+      Qcopters_26: 1871888614
+      Qcopters_34: 1657701527
+      Qcopters_54: -221353562
+      Qcopters_40: 322028691
+      Qcopters_33: -68938852
+      Qcopters_32: 535032499
+      Qcopters_45: 637434261
+      Qcopters_37: -1819787538
+      Qcopters_47: 1130313729
+      Qcopters_35: 621543821
+      Qcopters_15: 1822414809
+      Qcopters_56: -1938004439
+      Qcopters_12: 887473217
+      Qcopters_44: 1671263847
+      Qcopters_18: 1967179544
+      Qcopters_53: -523374414
+      Qcopters_27: -533925163
+      Qcopters_19: -548604023
+      Qcopters_51: 1298777253
+      Qcopters_10: 524621239
+      Qcopters_5: -2071536724
+      Qcopters_21: -253948768
+      Qcopters_0: 1632004740
+      Qcopters_2: -690682604
+      Qcopters_55: 357742615
+      Qcopters_24: -2104791405
+      Qcopters_41: 1483477374
+      Qcopters_17: 901539674
+      Qcopters_30: -43551036
+      Qcopters_3: 1515088500
+      Qcopters_7: -90456344
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
